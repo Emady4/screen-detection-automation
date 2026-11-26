@@ -34,5 +34,3 @@ A Windows desktop automation tool written in AutoHotkey v1.1. I originally devel
 - The hotkey is disabled when detection stops; use the GUI to restart.
 - Persistent matching colours can trigger repeated clicks and notifications.
 - Local settings store webhook credentials in plain text. Do not publish `settings.ini`.
-
-This is an original personal project provided as a portfolio example. Use automation only where permitted by the relevant application or game rules.
